@@ -11,3 +11,10 @@
     <img height="40em" src="https://skillicons.dev/icons?i=git,py,html,ps,vscode" />
   </a>
 </p>
+ 
+  <div style="display: inline_block"><br>
+    <img align="right" 
+     < img height="145em" src="https://cdn.discordapp.com/attachments/707069740295782410/1062474289900687441/Design_sem_nome.gif">
+  </div>
+  
+  ##
