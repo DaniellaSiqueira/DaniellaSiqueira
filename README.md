@@ -1,5 +1,7 @@
 ### Hello!
-My name is Daniella Teixeira, I'm 25 years old. I am a Systems Analysis and Development student. I currently live in the interior of São Paulo (Brazil).
+My name is Daniella Teixeira, I'm 25 years old. 
+I am a Systems Analysis and Development student at Anhembi Morumbi College. 
+I currently live in the interior of São Paulo (Brazil).
 
 
 <div> 
